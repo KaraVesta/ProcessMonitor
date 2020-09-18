@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Lab2Inject.cpp" />
+    <ClCompile Include="PipeServer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Lab2Inject.h" />
+    <ClInclude Include="..\include\Lab2.h" />
+    <ClInclude Include="PipeServer.h" />
+  </ItemGroup>
+</Project>
